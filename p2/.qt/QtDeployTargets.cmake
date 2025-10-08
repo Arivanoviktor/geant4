@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_simpleExample_FILE /home/artem/d2T/projects/Udubna/practice/p1_full_magfiled/simpleExample)
+set(__QT_DEPLOY_TARGET_simpleExample_TYPE EXECUTABLE)
